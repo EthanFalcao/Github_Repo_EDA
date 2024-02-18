@@ -24,15 +24,9 @@ Note: You might need to navigate to the specific folders for certain analyses.
 ## Usage
 Each folder in this repository serves a distinct purpose in the analysis of GitHub repositories. Navigate to the desired folder and follow the instructions provided in the individual README files (if available) for detailed guidelines on running the scripts or notebooks.
 
-## Contributing
-We welcome contributions from the community, whether it's adding new analysis features, improving the existing code, or fixing bugs. Please see the `CONTRIBUTING.md` file for more details on how to contribute.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Acknowledgments
 - Special thanks to Professor Murai and Professor Zou for their guidance and supervision throughout the MQP.
-- Appreciation to all contributors and users of the project for their insights and feedback.
 
 ## Contact
 For any queries regarding this project, please contact:
