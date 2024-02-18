@@ -5,7 +5,7 @@ This repository contains the exploratory data analysis (EDA) tools and datasets 
 
 ## Features
 - **TopRepos**: Analysis scripts focused on identifying and analyzing the top GitHub repositories.
-- **Data**: Cleaned and organized datasets ready for EDA.
+- **Data**: Cleaned and organized datasets for EDA.
 - **File Structure**: Tools for understanding the organization of repositories.
 - **Repo Specific**: Scripts designed for detailed analysis of specific repositories.
 - **Repo Status Classification**: Machine learning models for classifying the status of GitHub repositories.
