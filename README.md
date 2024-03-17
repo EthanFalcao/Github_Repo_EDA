@@ -1,4 +1,4 @@
-# Github_Repo_EDA
+# Mining Graph Patterns from Github Repositories 
 
 ## Overview
 This repository contains the exploratory data analysis (EDA) tools and datasets for analyzing GitHub repositories. It's part of a Graph Mining MQP (Major Qualifying Project) supervised by Professor Murai and Professor Zou. The goal is to uncover insights from GitHub repositories to understand the dynamics and characteristics of software development projects.
