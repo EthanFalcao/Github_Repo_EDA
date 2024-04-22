@@ -36,5 +36,3 @@ For any queries regarding this project, please contact:
 
 - Ethan Falcao - [GitHub Profile](https://github.com/EthanFalcao)
 
-## Project Status
-This project is currently in the development stage, with ongoing efforts to enhance the analysis capabilities and dataset coverage. Stay tuned for updates and new features.
