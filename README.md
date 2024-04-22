@@ -24,7 +24,7 @@ Note: You might need to navigate to the specific folders for certain analyses.
 ## Usage
 Each folder in this repository serves a distinct purpose in the analysis of GitHub repositories. Navigate to the desired folder and follow the instructions provided in the individual README files (if available) for detailed guidelines on running the scripts or notebooks.
 
-## Next Years Taks
+## Next Years Tasks
  * Are there any patterns with any of the 'resurrected" repos? 
 
 
