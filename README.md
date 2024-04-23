@@ -10,19 +10,6 @@ This repository contains the exploratory data analysis (EDA) tools and datasets 
 - **Repo Specific**: Scripts designed for detailed analysis of specific repositories.
 - **Repo Status Classification**: Machine learning models for classifying the status of GitHub repositories.
 
-## Installation
-To set up this project for local development or usage, follow these steps:
-1. Clone the repository:
-git clone https://github.com/EthanFalcao/Github_Repo_EDA.git
-
-2. Install the required dependencies (assuming you have Python and pip installed):
-
-pip install -r requirements.txt
-
-Note: You might need to navigate to the specific folders for certain analyses.
-
-## Usage
-Each folder in this repository serves a distinct purpose in the analysis of GitHub repositories. Navigate to the desired folder and follow the instructions provided in the individual README files (if available) for detailed guidelines on running the scripts or notebooks.
 
 ## Next Years Tasks
  * Are there any patterns with any of the 'resurrected" repos? 
